@@ -4,6 +4,6 @@ import './index.css'
 export default Header => {
 
   return (
-    <header className="component-header">HEADER</header>
+    <header className="component-header">VUE APPLICATION RODANDO EM DOCKER</header>
   )
 }
